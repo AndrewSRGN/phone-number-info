@@ -1,6 +1,5 @@
 COUNTRY, COUNTRY CODE, ISO CODES, POPULATION, AREA KM2, GDP $USD
-United States	1	US / USA	310,232,863	9,629,091	16.72 Trillion
-Canada	1	CA / CAN	33,679,000	9,984,670	1.825 Trillion
+NPA	1	US / USA	NPA	NPA	NPA
 Russia	7	RU / RUS	140,702,000	17,100,000	2.113 Trillion
 Kazakhstan	7	KZ / KAZ	15,340,000	2,717,300	224.9 Billion
 Egypt	20	EG / EGY	80,471,869	1,001,450	262 Billion
@@ -36,7 +35,7 @@ Christmas Island	61	CX / CXR	1,500	135
 Australia	61	AU / AUS	21,515,754	7,686,850	1.488 Trillion
 Indonesia	62	ID / IDN	242,968,342	1,919,440	867.5 Billion
 Philippines	63	PH / PHL	99,900,177	300,000	272.2 Billion
-Pitcairn	64	PN / PCN	46	47
+Pitcairn	64	NZ / PCN	46	47
 New Zealand	64	NZ / NZL	4,252,277	268,680	181.1 Billion
 Singapore	65	SG / SGP	4,701,069	693	295.7 Billion
 Thailand	66	TH / THA	67,089,500	514,000	400.9 Billion
@@ -160,10 +159,10 @@ Ecuador	593	EC / ECU	14,790,608	283,560	91.41 Billion
 Paraguay	595	PY / PRY	6,375,830	406,750	30.56 Billion
 Suriname	597	SR / SUR	492,829	163,270	5.009 Billion
 Uruguay	598	UY / URY	3,477,000	176,220	57.11 Billion
-Netherlands Antilles	599	AN / ANT	136,197	960
+Netherlands Antilles	599	BQ / ANT	136,197	960
 Curacao	599	CW / CUW	141,766	444	5.6 Billion
 East Timor	670	TL / TLS	1,154,625	15,007	6.129 Billion
-Antarctica	672	AQ / ATA	0	14,000,000
+Antarctica	672	NF / ATA	0	14,000,000
 Brunei	673	BN / BRN	395,027	5,770	16.56 Billion
 Nauru	674	NR / NRU	10,065	21
 Papua New Guinea	675	PG / PNG	6,064,515	462,840	16.1 Billion
@@ -212,33 +211,8 @@ Turkmenistan	993	TM / TKM	4,940,916	488,100	40.56 Billion
 Azerbaijan	994	AZ / AZE	8,303,512	86,600	76.01 Billion
 Georgia	995	GE / GEO	4,630,000	69,700	15.95 Billion
 Kyrgyzstan	996	KG / KGZ	5,508,626	198,500	7.234 Billion
+Kazakhstan	997	KZ / KAZ	15,340,000	2,717,300	224.9 Billion
 Uzbekistan	998	UZ / UZB	27,865,738	447,400	55.18 Billion
-Bahamas	1-242	BS / BHS	301,790	13,940	8.373 Billion
-Barbados	1-246	BB / BRB	285,653	431	4.262 Billion
-Anguilla	1-264	AI / AIA	13,254	102	175.4 Million
-Antigua and Barbuda	1-268	AG / ATG	86,754	443	1.22 Billion
-British Virgin Islands	1-284	VG / VGB	21,730	153	1.095 Billion
-U.S. Virgin Islands	1-340	VI / VIR	108,708	352
-Cayman Islands	1-345	KY / CYM	44,270	262	2.25 Billion
-Bermuda	1-441	BM / BMU	65,365	53	5.6 Billion
-Grenada	1-473	GD / GRD	107,818	344	811 Million
-Turks and Caicos Islands	1-649	TC / TCA	20,556	430
-Montserrat	1-664	MS / MSR	9,341	102
-Northern Mariana Islands	1-670	MP / MNP	53,883	477	733 Million
-Guam	1-671	GU / GUM	159,358	549	4.6 Billion
-American Samoa	1-684	AS / ASM	57,881	199	462.2 Million
-Sint Maarten	1-721	SX / SXM	37,429	34	794.7 Million
-Saint Lucia	1-758	LC / LCA	160,922	616	1.377 Billion
-Dominica	1-767	DM / DMA	72,813	754	495 Million
-Saint Vincent and the Grenadines	1-784	VC / VCT	104,217	389	742 Million
-Puerto Rico	1-787	PR / PRI	3,916,632	9,104	93.52 Billion
-Puerto Rico	1-939	PR / PRI	3,916,632	9,104	93.52 Billion
-Dominican Republic	1-809	DO / DOM	9,823,821	48,730	59.27 Billion
-Dominican Republic	1-829	DO / DOM	9,823,821	48,730	59.27 Billion
-Dominican Republic	1-849	DO / DOM	9,823,821	48,730	59.27 Billion
-Trinidad and Tobago	1-868	TT / TTO	1,228,691	5,128	27.13 Billion
-Saint Kitts and Nevis	1-869	KN / KNA	51,134	261	767 Million
-Jamaica	1-876	JM / JAM	2,847,232	10,991	14.39 Billion
 Guernsey	44-1481	GG / GGY	65,228	78	2.742 Billion
 Jersey	44-1534	JE / JEY	90,812	116	5.1 Billion
 Isle of Man	44-1624	IM / IMN	75,049	572	4.076 Billion
