@@ -16,10 +16,10 @@
   <p align="center">
     Simple Pet Project
     <br />
-    <a href="https://github.com/andrewsrgn/layout-tea-cozy"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/andrewsrgn/phone-number-info"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://andrewsrgn.github.io/layout-tea-cozy" target="_blank">View Demo</a>
+    <a href="https://andrewsrgn.github.io/phone-number-info" target="_blank">View Demo</a>
   </p>
 </div>
 
